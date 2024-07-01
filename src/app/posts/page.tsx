@@ -1,4 +1,4 @@
-export default function Home() {
+export default function Posts() {
   return (
     <main className="text-center pt-32 px-5">
       <h1 className="text-4xl font-bold mb-5 md:text-5xl">
