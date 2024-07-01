@@ -17,8 +17,8 @@ export default function Header() {
       label: "Posts",
     },
     {
-      href: "/create",
-      label: "Create Posts",
+      href: "/create-post",
+      label: "Create post",
     },
   ];
   return (
